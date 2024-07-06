@@ -19,7 +19,11 @@ Interactive Dashboard: The Excel dashboard allows for dynamic exploration of the
 Comprehensive Analysis: Detailed insights into customer demographics and purchase behaviors.
 Actionable Recommendations: Specific strategies to enhance marketing efforts and drive sales growth.
 
+Special thanks to Rishabh Mishra for their guidance and support.
+This experience helped me enhance my skills in data cleaning, processing, visualization, pivot tables, and statistical analysis.
+
 Repository Contents
 Data: Raw data and cleaned data used for analysis.
 Dashboard: The interactive Excel dashboard showcasing the findings.
 Documentation: Detailed documentation on the analysis process and the insights derived.
+
